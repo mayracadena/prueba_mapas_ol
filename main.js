@@ -186,8 +186,8 @@ var mapa_municipios = new VectorLayer({
           borde = "rgba(231, 76, 60 , 1)";
           break;
         case "Risaralda":
-          color = "rgba(136, 78, 160 , 0.5)";
-          borde = "rgba(136, 78, 160 , 1)";
+          color = "rgba(114, 31, 129 , 0.5)";
+          borde = "rgba(114, 31, 129 , 1)";
           break;
         case "San Andrés y Providencia":
           color = "rgba(145, 240, 67 , 0.5)";
